@@ -5,7 +5,6 @@ Welcome to my portfolio website! This project showcases my skills, projects, and
 ## 🌐 Live Demo
 
 You can view the live portfolio at: [https://makbelportifolio.vercel.app/](https://makbelportifolio.vercel.app/)
-
 ## 👨‍💻 About Me
 
 I'm Makbel Kebede, a Computer Science student and full-stack developer with expertise in creating modern, responsive web applications. I specialize in building exceptional digital experiences that are fast, accessible, visually appealing, and responsive.
